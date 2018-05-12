@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9472
     wikipedia: http://en.wikipedia.org/wiki/Richard_Doyle_%28illustrator%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37745#Manners--amp--Cvftoms-of-ye-EnglyfheDrawn-from-ye-Qvick
 gutenberg_issued: '2011-10-13'
 gutenberg_type: Text
 identifiers:
