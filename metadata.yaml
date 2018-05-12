@@ -1,0 +1,32 @@
+_repo: Manners--amp--Cvftoms-of-ye-EnglyfheDrawn-from-ye-Qvick_37745
+_version: 0.1.0
+alternative_title: "Manners and Customs of the English\r\nDrawn from the Quick"
+covers:
+- cover_type: archival
+  image_path: 37745-h/images/00covera.jpg
+creator:
+  author:
+    agent_name: Doyle, Richard
+    aliases:
+    - Doyle, R. (Richard)
+    - Kitcat, Dick
+    birthdate: 1824
+    deathdate: 1883
+    gutenberg_agent_id: '9472'
+    url: http://www.gutenberg.org/2009/agents/9472
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Doyle_%28illustrator%29
+description: ''
+gutenberg_issued: '2011-10-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37745'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Social life and customs -- Pictorial works'
+- !lcc 'NC'
+- !lcsh 'Caricatures and cartoons -- Great Britain'
+title: "Manners & Cvstoms of ye Englyshe\r\nDrawn from ye Qvick"
+url: http://www.gutenberg.org/ebooks/37745
